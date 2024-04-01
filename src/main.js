@@ -10,7 +10,7 @@
   });
   refs.closeModalBtn.addEventListener('click', toggleModal);
 
-  //* Закривання по кліку на бекдроп
+
 
   refs.modal.addEventListener('click', removeModal);
   function removeModal(e) {
